@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="57725" started-at="2018-07-19T18:43:28Z" finished-at="2018-07-19T18:44:25Z">
+  <suite name="Default suite" duration-ms="75081" started-at="2018-07-20T14:35:28Z" finished-at="2018-07-20T14:36:43Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="57725" started-at="2018-07-19T18:43:28Z" finished-at="2018-07-19T18:44:25Z">
+    <test name="Default test" duration-ms="75081" started-at="2018-07-20T14:35:28Z" finished-at="2018-07-20T14:36:43Z">
       <class name="com.familytreenow.qa.tests.FamilySearchTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="setUp" is-config="true" duration-ms="8034" started-at="2018-07-19T14:43:29Z" finished-at="2018-07-19T14:43:37Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@6500df86]" name="setUp" is-config="true" duration-ms="12962" started-at="2018-07-20T10:35:29Z" finished-at="2018-07-20T10:35:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="motherSearchTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="motherSearchTest" duration-ms="6374" started-at="2018-07-19T14:43:37Z" data-provider="familyTestData" finished-at="2018-07-19T14:43:43Z">
+        <test-method status="PASS" signature="motherSearchTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@6500df86]" name="motherSearchTest" duration-ms="7506" started-at="2018-07-20T10:35:42Z" data-provider="familyTestData" finished-at="2018-07-20T10:35:50Z">
           <params>
             <param index="0">
               <value>
@@ -42,15 +42,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- motherSearchTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="tearDown" is-config="true" duration-ms="2390" started-at="2018-07-19T14:43:43Z" finished-at="2018-07-19T14:43:46Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@6500df86]" name="tearDown" is-config="true" duration-ms="381" started-at="2018-07-20T10:35:50Z" finished-at="2018-07-20T10:35:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="setUp" is-config="true" duration-ms="6032" started-at="2018-07-19T14:43:46Z" finished-at="2018-07-19T14:43:52Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@6500df86]" name="setUp" is-config="true" duration-ms="8362" started-at="2018-07-20T10:35:50Z" finished-at="2018-07-20T10:35:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="motherSearchTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="motherSearchTest" duration-ms="2320" started-at="2018-07-19T14:43:52Z" data-provider="familyTestData" finished-at="2018-07-19T14:43:54Z">
+        <test-method status="PASS" signature="motherSearchTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@6500df86]" name="motherSearchTest" duration-ms="4586" started-at="2018-07-20T10:35:58Z" data-provider="familyTestData" finished-at="2018-07-20T10:36:03Z">
           <params>
             <param index="0">
               <value>
@@ -81,15 +81,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- motherSearchTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="tearDown" is-config="true" duration-ms="2364" started-at="2018-07-19T14:43:54Z" finished-at="2018-07-19T14:43:56Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@6500df86]" name="tearDown" is-config="true" duration-ms="4856" started-at="2018-07-20T10:36:03Z" finished-at="2018-07-20T10:36:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="setUp" is-config="true" duration-ms="6695" started-at="2018-07-19T14:43:57Z" finished-at="2018-07-19T14:44:03Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@6500df86]" name="setUp" is-config="true" duration-ms="9131" started-at="2018-07-20T10:36:08Z" finished-at="2018-07-20T10:36:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="spouseSearchTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="spouseSearchTest" duration-ms="3128" started-at="2018-07-19T14:44:03Z" data-provider="familyTestData" finished-at="2018-07-19T14:44:06Z">
+        <test-method status="PASS" signature="spouseSearchTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@6500df86]" name="spouseSearchTest" duration-ms="2179" started-at="2018-07-20T10:36:17Z" data-provider="familyTestData" finished-at="2018-07-20T10:36:19Z">
           <params>
             <param index="0">
               <value>
@@ -120,15 +120,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- spouseSearchTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="tearDown" is-config="true" duration-ms="2526" started-at="2018-07-19T14:44:06Z" finished-at="2018-07-19T14:44:09Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@6500df86]" name="tearDown" is-config="true" duration-ms="2210" started-at="2018-07-20T10:36:19Z" finished-at="2018-07-20T10:36:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="setUp" is-config="true" duration-ms="10600" started-at="2018-07-19T14:44:09Z" finished-at="2018-07-19T14:44:19Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@6500df86]" name="setUp" is-config="true" duration-ms="14478" started-at="2018-07-20T10:36:21Z" finished-at="2018-07-20T10:36:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="spouseSearchTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="spouseSearchTest" duration-ms="3364" started-at="2018-07-19T14:44:19Z" data-provider="familyTestData" finished-at="2018-07-19T14:44:23Z">
+        <test-method status="PASS" signature="spouseSearchTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@6500df86]" name="spouseSearchTest" duration-ms="4858" started-at="2018-07-20T10:36:36Z" data-provider="familyTestData" finished-at="2018-07-20T10:36:41Z">
           <params>
             <param index="0">
               <value>
@@ -159,7 +159,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- spouseSearchTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="tearDown" is-config="true" duration-ms="2409" started-at="2018-07-19T14:44:23Z" finished-at="2018-07-19T14:44:25Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@6500df86]" name="tearDown" is-config="true" duration-ms="2316" started-at="2018-07-20T10:36:41Z" finished-at="2018-07-20T10:36:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

@@ -35,14 +35,14 @@ public class FamilySearchTest extends TestBase {
 	}
 	
 	@Test(dataProvider="familyTestData")
-	public void spouseSearchTest(String firstname, String lastname, String expectedResult, String father, String mother) {
+	public void spouseSearchTest(String firstname, String lastname, String spouse, String father, String mother) {
 			search.searchSpouse(firstname, lastname);
 			String spouseName = results.searchResults();
-			Assert.assertEquals(spouseName, expectedResult);
+			Assert.assertEquals(spouseName, spouse);
 	}
 	
 	@Test(dataProvider="familyTestData")
-	public void motherSearchTest(String firstname, String lastname, String expectedResult, String father, String mother) {
+	public void motherSearchTest(String firstname, String lastname, String spouse, String father, String mother) {
 			search.searchMother(firstname, lastname, father);
 			String momName = results.momResults();
 			Assert.assertEquals(momName, mother);
