@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57725" started-at="2018-07-19T18:43:28Z" finished-at="2018-07-19T18:44:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57725" started-at="2018-07-19T18:43:28Z" finished-at="2018-07-19T18:44:25Z">
+      <class name="com.familytreenow.qa.tests.FamilySearchTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="setUp" is-config="true" duration-ms="8034" started-at="2018-07-19T14:43:29Z" finished-at="2018-07-19T14:43:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="motherSearchTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="motherSearchTest" duration-ms="6374" started-at="2018-07-19T14:43:37Z" data-provider="familyTestData" finished-at="2018-07-19T14:43:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Smith]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Arminta J. /CLOUSE/]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[john]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Sarah /Scruggs/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- motherSearchTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="tearDown" is-config="true" duration-ms="2390" started-at="2018-07-19T14:43:43Z" finished-at="2018-07-19T14:43:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="setUp" is-config="true" duration-ms="6032" started-at="2018-07-19T14:43:46Z" finished-at="2018-07-19T14:43:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="motherSearchTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="motherSearchTest" duration-ms="2320" started-at="2018-07-19T14:43:52Z" data-provider="familyTestData" finished-at="2018-07-19T14:43:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Smith]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Media Kerby]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[john]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mary Margaret Vollmer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- motherSearchTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="tearDown" is-config="true" duration-ms="2364" started-at="2018-07-19T14:43:54Z" finished-at="2018-07-19T14:43:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="setUp" is-config="true" duration-ms="6695" started-at="2018-07-19T14:43:57Z" finished-at="2018-07-19T14:44:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="spouseSearchTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="spouseSearchTest" duration-ms="3128" started-at="2018-07-19T14:44:03Z" data-provider="familyTestData" finished-at="2018-07-19T14:44:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Smith]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Arminta J. /CLOUSE/]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[john]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Sarah /Scruggs/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spouseSearchTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="tearDown" is-config="true" duration-ms="2526" started-at="2018-07-19T14:44:06Z" finished-at="2018-07-19T14:44:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="setUp" is-config="true" duration-ms="10600" started-at="2018-07-19T14:44:09Z" finished-at="2018-07-19T14:44:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="spouseSearchTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="spouseSearchTest" duration-ms="3364" started-at="2018-07-19T14:44:19Z" data-provider="familyTestData" finished-at="2018-07-19T14:44:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Smith]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Media Kerby]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[john]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mary Margaret Vollmer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spouseSearchTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.familytreenow.qa.tests.FamilySearchTest@5656be13]" name="tearDown" is-config="true" duration-ms="2409" started-at="2018-07-19T14:44:23Z" finished-at="2018-07-19T14:44:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.familytreenow.qa.tests.FamilySearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
